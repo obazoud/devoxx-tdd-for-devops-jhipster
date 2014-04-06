@@ -1,0 +1,8 @@
+{
+  "generator-jhipster": {
+    "baseName": "jhipster",
+    "packageName": "fr.devoxx.devops.jhipster",
+    "packageFolder": "fr/devoxx/devops/jhipster",
+    "hibernateCache": "no"
+  }
+}
